@@ -13,4 +13,4 @@
   
  
 1. Russian language
- * **rutracker_annotated.json** 1068 lines / rutracker.org anime category (2010-2014)
+ * **anime-rutracker** 1068 lines / rutracker.org anime category (2010-2014)
