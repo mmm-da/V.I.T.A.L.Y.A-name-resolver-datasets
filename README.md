@@ -1,5 +1,5 @@
 # V.I.T.A.L.Y.A-name-resolver-datasets
- Tagged datasets for NER.
+ Tagged datasets for NER torrent names.
  
  **Labels:**
   
@@ -12,5 +12,5 @@
   * Year
   
  
- 1. Russian language
-  * **rutracker_annotated.json** 1068 lines / rutracker.org anime category (2010-2014)
+1. Russian language
+ * **rutracker_annotated.json** 1068 lines / rutracker.org anime category (2010-2014)
